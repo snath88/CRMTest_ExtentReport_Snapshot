@@ -25,7 +25,7 @@ public class BaseUrlTest extends TestBase{
 	
 	BaseUrl baseurl;
 	LoginPage loginpage;
-	
+	//changes to commit
 	public BaseUrlTest()
 	{
 		super();
